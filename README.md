@@ -1,4 +1,4 @@
-# MiQuizz_app
+# QuizMate_app
 
 A new Flutter project.
 
